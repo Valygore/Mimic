@@ -1,2 +1,1 @@
-# Mimic
-Assets for Mimic Crypto Currency
+Mimic Crypto Currency Assets
